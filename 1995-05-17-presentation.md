@@ -1,3 +1,8 @@
+layout: post
+title: "Get to know me!"
+date: 1995-04-17 04:30:00 -0000
+categories: presentation
+
 ### Hi there 👋
 
 Welcome to my GitHub profile! I'm Hamza Eljaouhari, a passionate developer with a love for electric guitar, basketball, coding, and movies. I've been playing the electric guitar for about 15 years and enjoy combining my interests in technology and music.
