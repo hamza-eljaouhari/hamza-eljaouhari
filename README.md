@@ -1,63 +1,58 @@
-### Hi there 👋
+# Welcome to my GitHub!
 
-Welcome to my GitHub profile! I'm Hamza Eljaouhari, a passionate developer with a love for electric guitar, basketball, coding, and movies. I've been playing the electric guitar for about 15 years and enjoy combining my interests in technology and music.
+I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, coding, and movies.
+I love to optimize and secure applications, but also to design systems that serve endless amount of users (Oh yeah!)
 
-🔭 I’m currently working on:
+## 🔭 Current Projects:
 
-#### Cryptographical Keys Lifecycle Management Application
+**Cryptographical Keys Lifecycle Management Application**:
+- Manages AES and RSA keys (various sizes).
+- Functions: creation, activation, deactivation, archiving, recovery, revocation, destruction.
+- Built with React GUI and .NET Core API.
 
-This project is designed to handle the lifecycle of cryptographic keys for both AES and RSA encryption. It includes functionalities for creating, activating, deactivating, archiving, recovering, revoking, and destroying keys. The project supports AES with key sizes of 128, 192, and 256 bits, and RSA with key sizes of 1024, 2048, 3072, and 4096 bits.
+**Interactive Fretboard and Circle of Fifths**:
+- Helps guitarists improve skills and compose music with a dynamic fretboard and Circle of Fifths.
 
-- [React GUI](https://github.com/hamza-eljaouhari/kms-react-gui)
-- [.NET Core API](https://github.com/hamza-eljaouhari/klms-net-core)
+**Healer - Food Supplements Suggester**:
+- Recommends food supplements for better nutrition and health.
+- Analyzes nutritional medical results and symptoms for personalized suggestions.
 
-#### Interactive Fretboard and Circle of Fifths
+**Prayerful - Prayer Generator**:
+- Generates personalized prayers based on user input.
+- Features an Express.js backend, React frontend, and Next.js version in development.
 
-The Interactive Fretboard and Circle of Fifths project is designed to assist musicians, particularly guitarists, in improving their skills, composing music, and learning new songs on the guitar. By combining a dynamic fretboard visualization with the Circle of Fifths, this tool provides an intuitive interface for exploring musical concepts and practicing techniques.
+## 🌱 Learning:
 
-#### Healer - Food Supplements Suggester
-
-Healer is a Food Supplements Suggester designed to assist users in improving their nutritional intake and addressing specific health concerns through the recommendation of suitable food supplements. By providing functionalities such as nutritional medical results analysis and symptom evaluation, Healer offers personalized recommendations tailored to individual needs.
-
-- [Healer](https://github.com/hamza-eljaouhari/healer)
-
-#### Prayerful - Prayer Generator
-
-Prayerful is a prayer generator designed to provide users with personalized prayers. This project aims to offer spiritual support by generating prayers based on user input and preferences. It includes an Express.js backend and a React frontend, with a Next.js version in development.
-
-- [Express.js App](https://github.com/hamza-eljaouhari/express-prayerful)
-- [Client React.js App](https://github.com/hamza-eljaouhari/prayerful)
-- [Next.js Redo](https://github.com/hamza-eljaouhari/next-prayers)
-
-🌱 I’m currently learning:
-- Advanced optimization concepts and techniques
-- New ways to approach difficult companies' business problems
+- Advanced optimization techniques
+- New approaches to business problems
 - Music theory and composition
 
-👯 I’m looking to collaborate on:
+## 👯 Collaboration Interests:
+
 - Cryptography projects
 - Music-related software
 - Banking applications
 - Security applications
 
-🤔 I’m looking for help with:
+## 🤔 Looking for Help With:
+
 - Implementing advanced security features
 - Enhancing user experience for my applications
 - Exploring new frameworks and technologies
 
-💬 Ask me about:
+## 💬 Ask Me About:
+
 - Guitar techniques and music theory
 - Full-stack development with C# / .NET Core and React
 
-📫 How to reach me:
-- Email: [hamza.eljaouhari.1995@gmail.com](mailto:hamza.eljaouhari.1995@gmail.com)
+## 📫 Contact Me:
 
-😄 Pronouns:
+- Email: hamza.eljaouhari.1995@gmail.com
+
+## 😄 Pronouns:
+
 - He/Him
 
-⚡ Fun fact:
-- I love blending my technical skills with my architecturing capacities to create innovative tools and applications.
+## ⚡ Fun Fact:
 
----
-
-Thank you for visiting my profile! Feel free to explore my repositories and reach out if you'd like to connect or collaborate on exciting projects.
+I love blending my technical skills with my architectural capacities to create innovative tools and applications.
