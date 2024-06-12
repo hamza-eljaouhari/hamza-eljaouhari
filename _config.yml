@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: [Hamza ELJAOUHARI]
-description: [scription of your site's purpose]
+logo: /assets/img/logo.png
+description: [Hello, :), have fun discovering what I came across!]
+paginate: 5
