@@ -7,19 +7,19 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 
 ## 🔭 Current Projects:
 
-**[Cryptographical Keys Lifecycle Management Application](https://github.com/your-repo/cryptographical-keys-lifecycle)**:
+**[Cryptographical Keys Lifecycle Management Application](https://github.com/hamza-eljaouhari/cryptographical-keys-lifecycle)**:
 - Manages AES and RSA keys (various sizes).
 - Functions: creation, activation, deactivation, archiving, recovery, revocation, destruction.
 - Built with React GUI and .NET Core API.
 
-**[Interactive Fretboard and Circle of Fifths](https://github.com/your-repo/interactive-fretboard)**:
+**[Interactive Fretboard and Circle of Fifths](https://github.com/hamza-eljaouhari/interactive-fretboard)**:
 - Helps guitarists improve skills and compose music with a dynamic fretboard and Circle of Fifths.
 
-**[Healer - Food Supplements Suggester](https://github.com/your-repo/healer)**:
+**[Healer - Food Supplements Suggester](https://github.com/hamza-eljaouhari/healer)**:
 - Recommends food supplements for better nutrition and health.
 - Analyzes nutritional medical results and symptoms for personalized suggestions.
 
-**[Prayerful - Prayer Generator](https://github.com/your-repo/prayerful)**:
+**[Prayerful - Prayer Generator](https://github.com/hamza-eljaouhari/prayerful)**:
 - Generates personalized prayers based on user input.
 - Features an Express.js backend, React frontend, and Next.js version in development.
 
