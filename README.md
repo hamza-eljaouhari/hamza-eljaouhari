@@ -18,7 +18,7 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 **[Interactive Fretboard and Circle of Fifths]([https://github.com/hamza-eljaouhari/fretboard](https://hamza-eljaouhari.github.io/fretboard/))**:
 - Helps guitarists improve skills and compose music with a dynamic fretboard and Circle of Fifths.
 
-[React.js](https://github.com/hamza-eljaouhari/interactive-fretboard)
+[React.js](https://github.com/hamza-eljaouhari/fretboard)
 
 https://hamza-eljaouhari.github.io/fretboard/
 
