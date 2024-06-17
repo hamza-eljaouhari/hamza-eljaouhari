@@ -12,7 +12,7 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 - Functions: creation, activation, deactivation, archiving, recovery, revocation, destruction.
 - Built with React GUI and .NET Core API.
 
-[React.js](https://github.com/hamza-eljaouhari/kms-react-gui)
+[React.js](https://github.com/hamza-eljaouhari/kms-react-gui) - 
 [C# .NET Core](https://github.com/hamza-eljaouhari/kms-react-gui](https://github.com/hamza-eljaouhari/klms-net-core))
 
 **[Interactive Fretboard and Circle of Fifths](https://github.com/hamza-eljaouhari/fretboard)**:
@@ -30,7 +30,7 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 - Generates personalized prayers based on user input.
 - Features an Express.js backend, React frontend, and Next.js version in development.
 
-[React.js](https://github.com/hamza-eljaouhari/prayerful)
+[React.js](https://github.com/hamza-eljaouhari/prayerful) - 
 [Node.js / Express.js](https://github.com/hamza-eljaouhari/express-prayerful))
 
 
