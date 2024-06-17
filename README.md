@@ -13,20 +13,22 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 - Built with React GUI and .NET Core API.
 
 [React.js](https://github.com/hamza-eljaouhari/kms-react-gui) - 
-[C# .NET Core](https://github.com/hamza-eljaouhari/klms-net-core))
+[C# .NET Core](https://github.com/hamza-eljaouhari/klms-net-core)
 
-**[Interactive Fretboard and Circle of Fifths](https://github.com/hamza-eljaouhari/fretboard)**:
+**[Interactive Fretboard and Circle of Fifths]([https://github.com/hamza-eljaouhari/fretboard](https://hamza-eljaouhari.github.io/fretboard/))**:
 - Helps guitarists improve skills and compose music with a dynamic fretboard and Circle of Fifths.
 
 [React.js](https://github.com/hamza-eljaouhari/interactive-fretboard)
 
-**[Healer - Food Supplements Suggester](https://github.com/hamza-eljaouhari/healer)**:
+https://hamza-eljaouhari.github.io/fretboard/
+
+**[Healer - Food Supplements Suggester](https://hamza-eljaouhari.github.io/healer)**:
 - Recommends food supplements for better nutrition and health.
 - Analyzes nutritional medical results and symptoms for personalized suggestions.
 
 [React.js](https://github.com/hamza-eljaouhari/healer)
 
-**[Prayerful - Prayer Generator](https://github.com/hamza-eljaouhari/prayerful)**:
+**[Prayerful - Prayer Generator](https://hamza-eljaouhari.github.com/prayerful)**:
 - Generates personalized prayers based on user input.
 - Features an Express.js backend, React frontend, and Next.js version in development.
 
