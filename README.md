@@ -7,21 +7,32 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 
 ## 🔭 Current Projects:
 
-**[Cryptographical Keys Lifecycle Management Application](https://github.com/hamza-eljaouhari/cryptographical-keys-lifecycle)**:
+**[Cryptographical Keys Lifecycle Management Application](https://klms-net-core-71c8398607be.herokuapp.com/api/Cryptography)**:
 - Manages AES and RSA keys (various sizes).
 - Functions: creation, activation, deactivation, archiving, recovery, revocation, destruction.
 - Built with React GUI and .NET Core API.
 
-**[Interactive Fretboard and Circle of Fifths](https://github.com/hamza-eljaouhari/interactive-fretboard)**:
+[React.js]([https://github.com/hamza-eljaouhari/kms-react-gui])
+[C# .NET Core]([[https://github.com/hamza-eljaouhari/kms-react-gui](https://github.com/hamza-eljaouhari/klms-net-core)])
+
+**[Interactive Fretboard and Circle of Fifths](https://github.com/hamza-eljaouhari/fretboard)**:
 - Helps guitarists improve skills and compose music with a dynamic fretboard and Circle of Fifths.
 
-**[Healer - Food Supplements Suggester](https://github.com/hamza-eljaouhari/healer)**:
+[React.js](https://github.com/hamza-eljaouhari/interactive-fretboard)
+
+**[Healer - Food Supplements Suggester]([https://github.com/hamza-eljaouhari/healer])**:
 - Recommends food supplements for better nutrition and health.
 - Analyzes nutritional medical results and symptoms for personalized suggestions.
 
-**[Prayerful - Prayer Generator](https://github.com/hamza-eljaouhari/prayerful)**:
+[React.js](https://github.com/hamza-eljaouhari/healer])
+
+**[Prayerful - Prayer Generator]([https://github.com/hamza-eljaouhari/prayerful])**:
 - Generates personalized prayers based on user input.
 - Features an Express.js backend, React frontend, and Next.js version in development.
+
+[React.js](https://github.com/hamza-eljaouhari/prayerful))])
+[Node.js / Express.js](https://github.com/hamza-eljaouhari/express-prayerful)])
+
 
 ## 🌱 Learning:
 
