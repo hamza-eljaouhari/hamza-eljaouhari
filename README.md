@@ -30,8 +30,8 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 - Generates personalized prayers based on user input.
 - Features an Express.js backend, React frontend, and Next.js version in development.
 
-[React.js](https://github.com/hamza-eljaouhari/prayerful))])
-[Node.js / Express.js](https://github.com/hamza-eljaouhari/express-prayerful)])
+[React.js](https://github.com/hamza-eljaouhari/prayerful)
+[Node.js / Express.js](https://github.com/hamza-eljaouhari/express-prayerful))
 
 
 ## 🌱 Learning:
