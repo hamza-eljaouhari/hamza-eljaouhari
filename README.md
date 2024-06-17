@@ -13,7 +13,7 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 - Built with React GUI and .NET Core API.
 
 [React.js](https://github.com/hamza-eljaouhari/kms-react-gui) - 
-[C# .NET Core](https://github.com/hamza-eljaouhari/kms-react-gui](https://github.com/hamza-eljaouhari/klms-net-core))
+[C# .NET Core](https://github.com/hamza-eljaouhari/klms-net-core))
 
 **[Interactive Fretboard and Circle of Fifths](https://github.com/hamza-eljaouhari/fretboard)**:
 - Helps guitarists improve skills and compose music with a dynamic fretboard and Circle of Fifths.
