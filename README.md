@@ -20,8 +20,6 @@ I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, 
 
 [React.js](https://github.com/hamza-eljaouhari/fretboard)
 
-https://hamza-eljaouhari.github.io/fretboard/
-
 **[Healer - Food Supplements Suggester](https://hamza-eljaouhari.github.io/healer)**:
 - Recommends food supplements for better nutrition and health.
 - Analyzes nutritional medical results and symptoms for personalized suggestions.
