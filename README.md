@@ -14,6 +14,9 @@ I love to optimize and secure applications, and I also to design systems that se
 [C# .NET Core](https://github.com/hamza-eljaouhari/klms-net-core)
 
 **[Interactive Fretboard and Circle of Fifths](https://hamza-eljaouhari.github.io/fretboard/)**:
+
+[Next.js clone](https://hamza-eljaouhari.github.io/fretboard/)
+
 - Helps guitarists improve skills and compose music with a dynamic fretboard and Circle of Fifths.
 
 [React.js](https://github.com/hamza-eljaouhari/fretboard)
