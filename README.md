@@ -34,47 +34,9 @@ I love to optimize and secure applications, and I also to design systems that se
 [React.js](https://github.com/hamza-eljaouhari/prayerful) - 
 [Node.js / Express.js](https://github.com/hamza-eljaouhari/express-prayerful)
 
-
-## 🌱 Learning:
-
-- Advanced optimization techniques
-- New approaches to business problems
-- Music theory and composition
-
 ## 👯 Collaboration Interests:
 
 - Cryptography projects
 - Music-related software
 - Banking applications
 - Security applications
-
-## 🤔 Looking for Help With:
-
-- Implementing advanced security features
-- Enhancing user experience for my applications
-- Exploring new frameworks and technologies
-
-## 💬 Ask Me About:
-
-- Guitar techniques and music theory
-- Full-stack development with C# / .NET Core and React
-
-## 📫 Contact Me:
-
-- Email: [hamza.eljaouhari.1995@gmail.com](mailto:hamza.eljaouhari.1995@gmail.com)
-
-## 😄 Pronouns:
-
-- He/Him
-
-## ⚡ Fun Fact:
-
-I love blending my technical skills with my architectural capacities to create innovative tools and applications.
-
-## 😄 Pronouns:
-
-- He/Him
-
-## ⚡ Fun Fact:
-
-I love blending my technical skills with my architectural capacities to create innovative tools and applications.
