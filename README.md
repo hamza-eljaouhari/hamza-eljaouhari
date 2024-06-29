@@ -1,7 +1,7 @@
 # Welcome to my GitHub!
 
 I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, coding, and movies.
-I love to optimize and secure applications, and I also to design systems that serve endless amount of users (Oh yeah!)
+I love to design optimize and secure applications, and I also to design systems that serve endless amount of users (Oh yeah!)
 
 ## 🔭 Current Projects:
 
