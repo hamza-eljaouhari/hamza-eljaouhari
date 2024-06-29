@@ -27,13 +27,6 @@ I love to design optimize and secure applications, and I also to design systems 
 
 [React.js](https://github.com/hamza-eljaouhari/healer)
 
-**[Prayerful - Prayer Generator](https://hamza-eljaouhari.github.io/prayerful/)**:
-- Generates personalized prayers based on user input.
-- Features an Express.js backend, React frontend, and Next.js version in development.
-
-[React.js](https://github.com/hamza-eljaouhari/prayerful) - 
-[Node.js / Express.js](https://github.com/hamza-eljaouhari/express-prayerful)
-
 ## 👯 Collaboration Interests:
 
 - Cryptography projects
