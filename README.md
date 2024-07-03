@@ -6,8 +6,8 @@ I love to design optimize and secure applications, and I also to design systems 
 ## 🔭 Current Projects:
 
 **[Cryptographical Keys Lifecycle Management Application](https://klms-net-core-71c8398607be.herokuapp.com/index.html)**
-**[Interactive Fretboard and Circle of Fifths](https://hamza-eljaouhari.github.io/fretboard/)**:
-**[Healer - Food Supplements Suggester](https://hamza-eljaouhari.github.io/healer)**:
+
+**[Interactive Fretboard and Circle of Fifths](https://hamza-eljaouhari.github.io/music-sheets/)**:
 
 ...Others
 
