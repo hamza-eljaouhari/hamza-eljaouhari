@@ -1,7 +1,8 @@
 # Welcome to my GitHub!
 
-I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball, coding, and movies.
-I love to design optimize and secure applications, and I also to design systems that serve endless amount of users (Oh yeah!)
+I'm Hamza Eljaouhari, a developer passionate about electric guitar, basketball and movies.
+I love to present in the Software Developement Cycle and collaborate with different profiles to fluidify programming and production.
+I enjoy coding and would love to add new experiences to my CV.
 
 ## 🔭 Current Projects:
 
